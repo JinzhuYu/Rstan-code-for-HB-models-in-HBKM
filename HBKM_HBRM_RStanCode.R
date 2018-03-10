@@ -1,5 +1,5 @@
 
-## HBKM???HBRM in???Stan code implemented in R
+## RStan code for the HB models used in HBKM and HBRM
 
   # HBKM in stan
 
