@@ -3,6 +3,7 @@ The HB models are used to implement the Hierarhical Bayesian Kernel Model (HBKM)
 in our paper titled Quantifying Community Resilience Using Hierarchical Bayesian Kernel Methods: A Case Study on Recovery from Power Outages. The paper is available at: https://doi.org/10.1111/risa.13343.
 
 Citation in latex:
+
 @article{yu2019quantifying,
 
   title={Quantifying Community Resilience Using Hierarchical Bayesian Kernel Methods: A Case Study on Recovery from Power Outages},
