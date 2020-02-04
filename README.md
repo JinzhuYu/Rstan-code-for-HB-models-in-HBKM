@@ -4,13 +4,21 @@ in our paper titled Quantifying Community Resilience Using Hierarchical Bayesian
 
 Citation in latex:
 @article{yu2019quantifying,
+
   title={Quantifying Community Resilience Using Hierarchical Bayesian Kernel Methods: A Case Study on Recovery from Power Outages},
+  
   author={Yu, Jin-Zhu and Baroud, Hiba},
+  
   journal={Risk Analysis},
+  
   volume={39},
+  
   number={9},
+  
   pages={1930--1948},
+  
   year={2019},
+  
   publisher={Wiley Online Library}
 }
 
