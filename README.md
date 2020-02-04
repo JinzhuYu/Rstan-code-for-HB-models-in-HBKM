@@ -5,6 +5,7 @@ in our paper titled Quantifying Community Resilience Using Hierarchical Bayesian
 Citation in latex:
 
 @article{yu2019quantifying,
+  
   title={Quantifying Community Resilience Using Hierarchical Bayesian Kernel Methods: A Case Study on Recovery from Power Outages},
   
   author={Yu, Jin-Zhu and Baroud, Hiba},
